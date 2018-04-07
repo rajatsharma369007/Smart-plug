@@ -1,4 +1,7 @@
-
+// the program is all about to control a relay by sending a wirelessly
+// via serial communication in between HC05 and Android app.
+// Author: Rajat Sharma
+// Date: February, 2017
 
 #include <SoftwareSerial.h>  
 
